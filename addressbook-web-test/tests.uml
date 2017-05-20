@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="432.5" y="322.0">ru.stqa.pft.addressbook.GroupCreationTests</node>
+    <node x="483.0" y="88.0">ru.stqa.pft.addressbook.GroupData</node>
+    <node x="15.25" y="322.0">ru.stqa.pft.addressbook.GroupDeletionTests</node>
+    <node x="0.0" y="0.0">ru.stqa.pft.addressbook.TestBase</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.stqa.pft.addressbook.GroupCreationTests" target="ru.stqa.pft.addressbook.TestBase">
+      <point x="-50.5" y="-26.0" />
+      <point x="483.0" y="297.0" />
+      <point x="347.25" y="297.0" />
+      <point x="115.75" y="136.0" />
+    </edge>
+    <edge source="ru.stqa.pft.addressbook.GroupCreationTests" target="ru.stqa.pft.addressbook.GroupData">
+      <point x="50.5" y="-26.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="ru.stqa.pft.addressbook.GroupDeletionTests" target="ru.stqa.pft.addressbook.TestBase">
+      <point x="0.0" y="-26.0" />
+      <point x="-115.75" y="136.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="58.5" y="40.5" />
+  <SelectedNodes>
+    <node>ru.stqa.pft.addressbook.TestBase</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
